@@ -1,6 +1,10 @@
 # CloudComputingTree
 云计算技术
 
+
+###
+![](https://i.imgur.com/ttwymjF.png)
+
 <pre>
 广义的将云计算解释为一切能够通过互联网提供的服务，这些服务被划分成三个层次: 
     1) 基础设施即服务（Infrastructure as a Service, IaaS）
